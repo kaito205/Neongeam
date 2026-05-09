@@ -1,0 +1,6 @@
+{
+  "name": "Neon Aegis: Vaporwave Invaders",
+  "description": "A retro-futuristic Space Invaders clone fused with a synthwave music player, featuring neon aesthetics and CRT effects.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["game", "audio"]
+}
